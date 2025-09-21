@@ -1,0 +1,16 @@
+Question,Answer,Explanation,PictureURL,OptionA,OptionB,OptionC,OptionD,OptionE,OptionF,OptionG,TestName,Content Type,Title Item,Type,Path
+Which coin is worth 1 cent?,A,A penny is worth 1 cent.,,Penny,Nickel,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q1,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is worth 5 cents?,A,A nickel is worth 5 cents.,,Nickel,Penny,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q2,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is worth 10 cents?,A,A dime is worth 10 cents.,,Dime,Nickel,Penny,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q3,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is worth 25 cents?,A,A quarter is worth 25 cents.,,Quarter,Nickel,Penny,Dime,,,,Chapter 9: Money,Question,Coin Recognition Q4,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is the smallest in size?,A,The dime is the smallest coin.,,Dime,Penny,Nickel,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q5,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is the largest in size?,A,A quarter is the largest coin.,,Quarter,Penny,Nickel,Dime,,,,Chapter 9: Money,Question,Coin Recognition Q6,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin is brown or copper-colored?,A,Pennies are copper colored.,,Penny,Nickel,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q7,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin has George Washington on the front?,A,George Washington is on the quarter.,,Quarter,Penny,Nickel,Dime,,,,Chapter 9: Money,Question,Coin Recognition Q8,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin has Thomas Jefferson on it?,A,Thomas Jefferson is on the nickel.,,Nickel,Penny,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q9,Multiple Choice,Chapter 9/Recognizing Coins
+Which coin has Franklin D. Roosevelt on it?,A,Franklin D. Roosevelt is on the dime.,,Dime,Penny,Quarter,Nickel,,,,Chapter 9: Money,Question,Coin Recognition Q10,Multiple Choice,Chapter 9/Recognizing Coins
+Select all coins worth less than 10 cents.,"A,B",Pennies and nickels are worth less than 10 cents.,,Penny,Nickel,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q11,Select All That Apply,Chapter 9/Recognizing Coins
+Select all coins that are silver-colored.,"B,C,D","Nickels, dimes, and quarters are silver-colored.",,Penny,Nickel,Dime,Quarter,,,,Chapter 9: Money,Question,Coin Recognition Q12,Select All That Apply,Chapter 9/Recognizing Coins
+Which coin is worth the most money?,A,"A quarter is worth 25 cents, the highest value listed.",,Quarter,Dime,Nickel,Penny,,,,Chapter 9: Money,Question,Coin Recognition Q13,Multiple Choice,Chapter 9/Recognizing Coins
+How many pennies equal one nickel?,A,Five pennies equal one nickel.,,5,10,25,2,,,,Chapter 9: Money,Question,Coin Recognition Q14,Multiple Choice,Chapter 9/Recognizing Coins
+How many nickels equal one quarter?,A,"Five nickels equal 25 cents, the same as a quarter.",,5,4,3,2,,,,Chapter 9: Money,Question,Coin Recognition Q15,Multiple Choice,Chapter 9/Recognizing Coins
